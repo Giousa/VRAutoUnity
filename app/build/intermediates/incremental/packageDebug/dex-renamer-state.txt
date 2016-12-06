@@ -1,0 +1,7 @@
+#Tue Dec 06 09:25:10 CST 2016
+base.0=D\:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2e573ae51f947daec57406a70f1410d2bd5d23b0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6307271b3de456019138f9f8f110b767d4e4373c\\classes.dex
+base.1=D\:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6307271b3de456019138f9f8f110b767d4e4373c
+file.0=D\:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2e573ae51f947daec57406a70f1410d2bd5d23b0\\classes.dex
