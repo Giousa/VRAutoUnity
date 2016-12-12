@@ -16,12 +16,12 @@
         "source": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\color\\abc_hint_foreground_material_light.xml"
-    },
-    {
         "merged": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",

@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="70333860c0ef53e8de9f8d89be42d8ebf8d1f4f8">
+        sha1="3e83eaf051768df2bb51311036d4ad5368b9b64e">
         <dex dex="D:\TestWorkspace\VRAutocycling\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2e573ae51f947daec57406a70f1410d2bd5d23b0\classes.dex" />
     </item>
     <item
@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="58c714f296d8693db9c4a2bec05d9a41ff323ab9">
+        sha1="ec989b220955a02f0fe76428ff787021aab524d6">
         <dex dex="D:\TestWorkspace\VRAutocycling\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6307271b3de456019138f9f8f110b767d4e4373c\classes.dex" />
     </item>
     <item

@@ -4,39 +4,33 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="1641211350682"
+    timestamp="437082956436"
     token="-4649404930766580869"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="717" />
+        duration="935" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="111" />
+        duration="214" />
     <task
         name="verifier"
-        duration="49" />
+        duration="73" />
 
     <artifact
         location="D:\TestWorkspace\VRAutocycling\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="33312919791947"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="437082956436"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\TestWorkspace\VRAutocycling\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="D:\TestWorkspace\VRAutocycling\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
-            location="D:\TestWorkspace\VRAutocycling\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
-            type="DEX" />
+            location="D:\TestWorkspace\VRAutocycling\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
     </build>
 
 </instant-run>

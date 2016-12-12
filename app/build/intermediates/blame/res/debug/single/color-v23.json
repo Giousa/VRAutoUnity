@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\color-v23\\abc_tint_edittext.xml"
-    },
-    {
         "merged": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
         "source": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
         "merged": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",

@@ -20,12 +20,12 @@
         "source": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
         "merged": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\TestWorkspace\\VRAutocycling\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
     },
     {
         "merged": "D:\\TestWorkspace\\VRAutocycling\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
